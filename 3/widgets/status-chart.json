@@ -1,0 +1,1 @@
+[{"uid":"271f05e73968c3bf","name":"test_adesao_assinatura_sucesso_ct001[chromium]","time":{"start":1780874804485,"stop":1780874808866,"duration":4381},"status":"passed","severity":"normal"},{"uid":"d43426a23639099e","name":"test_adesao_falha_pagamento_ct002[chromium]","time":{"start":1780874809290,"stop":1780874813394,"duration":4104},"status":"passed","severity":"normal"}]

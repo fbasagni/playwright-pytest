@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    CT001: Validar fluxo completo de adesão de assinatura com sucesso (Cartão Válido)
+    ","4381","test_adesao_assinatura_sucesso_ct001[chromium]","playwright.e2e","2026-06-07","passed","2026-06-07","","test_adesao","",""
+"
+    CT002: Validar fluxo de adesão com falha no pagamento (Cartão Recusado)
+    ","4104","test_adesao_falha_pagamento_ct002[chromium]","playwright.e2e","2026-06-07","passed","2026-06-07","","test_adesao","",""
