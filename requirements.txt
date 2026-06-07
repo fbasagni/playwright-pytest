@@ -1,0 +1,4 @@
+pytest-playwright==0.7.1
+allure-pytest==2.13.5
+faker==25.2.0
+pytest-base-url==2.1.0
